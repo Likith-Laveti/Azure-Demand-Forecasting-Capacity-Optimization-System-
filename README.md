@@ -148,8 +148,6 @@ Top 20 Products – Next Month Forecast
 
 Forecast Confidence Gauge
 
-<img width="1707" height="960" alt="image" src="https://github.com/user-attachments/assets/ff65e8ae-29d1-4944-b74c-8ee228da47f1" />
-
 
 3️⃣ Web Behavior & Conversion Dashboard
 
