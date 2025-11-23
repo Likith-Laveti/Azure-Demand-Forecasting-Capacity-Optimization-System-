@@ -5,7 +5,7 @@ Architecture:
 
 Demo Video:
 
-[Watch the demo](https://github.com/Likith-Laveti/Azure-Demand-Forecasting-Capacity-Optimization-System-/raw/refs/heads/main/Likith_project_demo_video.mp4./Likith_project_demo_video.mov)
+[Watch the demo](https://github.com/Likith-Laveti/Azure-Demand-Forecasting-Capacity-Optimization-System-/raw/refs/heads/main/Likith_project_demo_video.mp4/Likith_project_demo_video.mov)
 
 
 
