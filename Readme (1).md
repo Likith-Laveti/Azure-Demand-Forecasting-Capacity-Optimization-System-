@@ -7,7 +7,8 @@ Demo Video:
 
 
 
-https://github.com/user-attachments/assets/248d3bad-37dc-4d60-a975-d1d6e6084c20
+![likith_project_demo_video](https://github.com/user-attachments/assets/248d3bad-37dc-4d60-a975-d1d6e6084c20)
+
 
 
 This project implements an end-to-end cloud-based forecasting system designed to predict Azure Compute and Storage demand. The workflow integrates multi-cloud data ingestion, scalable storage, advanced feature engineering, machine learning model training, and Power BI–based visualization to support Azure’s capacity planning and supply chain decision-making.
