@@ -7,7 +7,10 @@ Demo Video:
 
 
 
-https://raw.githubusercontent.com/Likith-Laveti/Azure-Demand-Forecasting-Capacity-Optimization-System-/main/Likith_project_demo_video.mp4
+<video width="700" height="400" controls>
+  <source src="https://raw.githubusercontent.com/Likith-Laveti/Azure-Demand-Forecasting-Capacity-Optimization-System-/main/Likith_project_demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
