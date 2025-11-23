@@ -5,7 +5,7 @@ Architecture:
 
 Demo Video:
 
-(https://github.com/user-attachments/assets/248d3bad-37dc-4d60-a975-d1d6e6084c20)
+ [Watch the demo](./Likith_project_demo_video.mp4)
 
 
 
