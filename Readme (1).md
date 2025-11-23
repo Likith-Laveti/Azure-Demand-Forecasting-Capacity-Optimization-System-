@@ -5,7 +5,7 @@ Architecture:
 
 Demo Video:
 
- [Watch the demo](./Likith_project_demo_video.mp4)
+ [Watch the demo](Likith_project_demo_video.mp4)
 
 
 
