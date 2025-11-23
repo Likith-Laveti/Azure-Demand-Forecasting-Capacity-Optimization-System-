@@ -5,12 +5,7 @@ Architecture:
 
 Demo Video:
 
-[Watch the demo](./Likith_project_demo_video.mov)
-
-<video width="700" height="400" controls>
-  <source src="https://raw.githubusercontent.com/Likith-Laveti/Azure-Demand-Forecasting-Capacity-Optimization-System-/main/Likith_project_demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo](https://github.com/Likith-Laveti/Azure-Demand-Forecasting-Capacity-Optimization-System-/raw/refs/heads/main/Likith_project_demo_video.mp4./Likith_project_demo_video.mov)
 
 
 
