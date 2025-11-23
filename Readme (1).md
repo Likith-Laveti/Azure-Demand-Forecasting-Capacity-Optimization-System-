@@ -1,26 +1,19 @@
 # Azure based Demand Forecasting and Capacity Optimization System
+
 Architecture:
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/925b2940-6764-44e9-ac4b-b165a4c25048" />
 
 Demo Video:
 
-
-
-Demo Video:
-
 <video width="700" height="400" controls>
-  <source src="Likith_project_demo_video.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/Likith-Laveti/Azure-Demand-Forecasting-Capacity-Optimization-System-/main/Likith_project_demo_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
-
-
 This project implements an end-to-end cloud-based forecasting system designed to predict Azure Compute and Storage demand. The workflow integrates multi-cloud data ingestion, scalable storage, advanced feature engineering, machine learning model training, and Power BI–based visualization to support Azure’s capacity planning and supply chain decision-making.
+
 <img width="1000" height="342" alt="image" src="https://github.com/user-attachments/assets/64ef7ff5-cff4-4b21-813b-b647acbd11e2" />
-
-
 
 **1. Data Sources**
    
@@ -47,7 +40,6 @@ All incoming data is ingested through:
 This ensures scalable, fault-tolerant data handling capable of growing with Azure’s infrastructure signals.
 
 <img width="1000" height="342" alt="image" src="https://github.com/user-attachments/assets/adca9e84-ada0-4c1e-a29d-d2a84924e34e" />
-
 
 **3. Data Processing Layer (Azure Databricks)**
 
@@ -102,10 +94,10 @@ The final forecasts and performance metrics are published to Power BI, enabling:
 + Regional and service-level breakdowns
 + Capacity planning insights
 + Model accuracy monitoring
+
 <img width="648" height="367" alt="image" src="https://github.com/user-attachments/assets/c94f2be6-1315-44ef-adda-bae07297d2ad" />
 <img width="654" height="362" alt="image" src="https://github.com/user-attachments/assets/3a80e199-3903-4f80-a6d6-224539b4f87c" />
 <img width="650" height="363" alt="image" src="https://github.com/user-attachments/assets/71e3c863-215c-4786-8e36-87d2fefd11fa" />
-
 
 The dashboard is visible in this link: https://app.powerbi.com/view?r=eyJrIjoiOGYxYTA5NWMtZTg3NC00Nzk4LThjZjMtNDVlMmE2OTc1ZmI2IiwidCI6IjE1YzM0OWUxLTBjNTUtNDYwOS1iMzNhLWM2MjJkOWU2NjRlYSJ9
 
@@ -113,5 +105,3 @@ The dashboard is visible in this link: https://app.powerbi.com/view?r=eyJrIjoiOG
 
 This project delivers an integrated cloud-based forecasting system that ingests multi-cloud data from Snowflake, GCP, and API sources into Azure storage via ADF, processes it through a Databricks Lakehouse (Bronze-Silver-Gold layers), trains multiple ML models to predict Azure Compute & Storage demand, and visualizes the insights in Power BI.
 Random Forest delivered the best forecast accuracy (97.69%), enabling Azure to optimize capacity planning and reduce infrastructure cost inefficiencies.
-
-
