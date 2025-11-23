@@ -7,7 +7,13 @@ Demo Video:
 
 
 
-![likith_project_demo_video](https://github.com/user-attachments/assets/248d3bad-37dc-4d60-a975-d1d6e6084c20)
+Demo Video:
+
+<video width="700" height="400" controls>
+  <source src="Likith_project_demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 
