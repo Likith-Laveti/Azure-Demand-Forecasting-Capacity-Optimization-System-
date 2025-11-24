@@ -58,6 +58,12 @@ This multi-layered Lakehouse approach ensures clean, high-quality, reliable inpu
 
 <img width="600" height="442" alt="image" src="https://github.com/user-attachments/assets/ef219e2b-e8fe-44e7-abfb-7310815ae837" />
 
+Demo Video:
+
+
+[Watch the demo video](https://drive.google.com/file/d/1Rj-fw2qLFt3FO7GeniIHUcXuWPG8Rqwa/view?usp=sharing)
+
+
 **4. Machine Learning Model Training**
 
 The Model Training block uses Databricks ML runtime to build multiple forecasting models:
